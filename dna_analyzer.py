@@ -1,5 +1,5 @@
 
-Samples = "/Users/shagun/Desktop/Python_Projects/dna_analyzer/sample_dna.txt"
+Samples = "sample_dna.txt"
 
 def validate_dna(dna):
      for base in dna:
